@@ -9,6 +9,7 @@ terraform {
   }
 }
 
+#organization
 terraform {
   cloud {
     organization = "hsu-hcp-terraform-lab"
