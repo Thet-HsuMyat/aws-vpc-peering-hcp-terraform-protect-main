@@ -1,3 +1,4 @@
+# Testing GitHub PR workflow for backend-security
 terraform {
   required_version = ">= 1.12"
 
