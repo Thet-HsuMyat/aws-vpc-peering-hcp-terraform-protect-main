@@ -1,3 +1,4 @@
+# Testing GitHub PR workflow for backend-network
 terraform {
   required_version = ">= 1.12"
 
@@ -9,6 +10,7 @@ terraform {
   }
 }
 
+#organization
 terraform {
   cloud {
     organization = "hsu-hcp-terraform-lab"
